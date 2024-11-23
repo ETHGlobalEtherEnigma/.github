@@ -6,6 +6,8 @@
 
 **EtherEnigma** is a decentralized, blockchain-based riddle-solving game that brings the thrill of puzzles to the Ethereum ecosystem. Players stake Ether to participate, solve engaging riddles set by an AI agent, and stand a chance to win a share of the accumulating prize pool. The game leverages smart contracts to ensure fairness, transparency, and trustlessness.
 
+**Link**: https://ethglobal.com/showcase/etherenigma-oa2nz
+
 ### Motivation
 
 In the rapidly evolving world of decentralized applications, combining entertainment with blockchain technology opens up new avenues for interactive and rewarding experiences. EtherEnigma aims to showcase how smart contracts can be used to create a fun, engaging game that also demonstrates the potential of decentralized finance and blockchain transparency.
